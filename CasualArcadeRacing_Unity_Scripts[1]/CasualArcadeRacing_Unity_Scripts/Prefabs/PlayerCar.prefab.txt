@@ -1,0 +1,1 @@
+Placeholder: Create PlayerCar GameObject, add Rigidbody, BoxCollider, attach CarController.cs. Save as Prefab.

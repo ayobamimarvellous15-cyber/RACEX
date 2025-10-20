@@ -1,0 +1,1 @@
+Create a new scene called Track_Example: add plane/terrain, obstacles, PlayerCar prefab, Camera with CameraFollow, Canvas HUD prefab, and set GameManager in scene.

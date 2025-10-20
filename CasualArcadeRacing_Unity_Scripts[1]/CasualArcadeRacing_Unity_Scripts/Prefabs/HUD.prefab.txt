@@ -1,0 +1,1 @@
+Placeholder: Create a Canvas in Unity, add SpeedText, CoinsText, NitroSlider, CountdownText. Link them in UIManager component (see README-SETUP.txt).
